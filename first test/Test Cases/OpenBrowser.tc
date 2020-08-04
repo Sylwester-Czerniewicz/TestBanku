@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>OpenBrowser</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6403ad17-888c-4262-8f54-91866c3163bb</testCaseGuid>
+   <variable>
+      <defaultValue>'http://demo.pekao24.pl/MCP/client/logon/ClientLogonDemo.html'</defaultValue>
+      <description></description>
+      <id>c5e0011e-dedc-4c69-8838-889fcf529613</id>
+      <masked>false</masked>
+      <name>webName</name>
+   </variable>
+</TestCaseEntity>
